@@ -6,3 +6,5 @@ prueba 4
 prueba de remotos
 
 prueba de git pull
+
+cambio de archivo desde cursoGit2
