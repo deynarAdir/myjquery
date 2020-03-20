@@ -8,4 +8,8 @@ prueba de remotos
 prueba de git pull
 
 cambio de archivo desde cursoGit2
+
 prueba desde master
+
+cambio desde la rama prueba
+
